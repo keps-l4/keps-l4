@@ -69,16 +69,19 @@ Desenvolvedor apaixonado por programação, sistemas, simulações e tecnologia.
 
 ##  Projetos em Destaque
 
-🔹 **Simulador Econômico**  
+🔹 **Simulador Econômico** — ainda inexistente  
 Sistema em C++ para simulação de mercado.  
-🔗 https://github.com/keps-l4/seu-repo - ainda inexistente
+[Repositório](https://github.com/keps-l4/seu-repo)
 
-🔹 **Jogo AI vs AI**  
+🔹 **Jogo AI vs AI** — ainda inexistente  
 Jogo experimental com IA.  
-🔗 https://github.com/keps-l4/seu-repo - ainda inexistente
+[Repositório](https://github.com/keps-l4/seu-repo)
 
-🔹 **Engine Basica**  
-https://github.com/keps-l4/Zenith - em produção (Sim, nome generico eu sei)
+🔹 **Engine Básica (Zenith)** — em produção  
+Engine própria em C++ focada em performance.  
+[Repositório](https://github.com/keps-l4/Zenith)
+
+
 ---
 
 ##  Contato
